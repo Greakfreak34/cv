@@ -1,0 +1,131 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #E4F9F5;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', cursive;
+}
+
+h3 {
+  font-family: 'Sacramento', cursive;
+}
+
+.top {
+  background-color: #D7FBE8;
+  position: relative;
+  padding-top: 100px;
+}
+
+.lor{
+  font-size: 25px;
+}
+.mid {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
+
+.bot {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+
+.jack{
+  margin-top:20px;
+  height: 350px;
+  width: 350px;
+}
+
+.math{
+  font-size: 25px;
+}
+.span {
+  text-decoration: underline;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+.bot-cloud {
+  position: absolute;
+  bottom: 200px;
+  left: 200px;
+}
+
+.dzudzo {
+  margin-top: 30px;
+  height: 200px;
+  width: 200px;
+}
+
+.dzudzo1 {
+  height: 350px;
+  width: 350px;
+}
+
+.malphite {
+  margin-bottom: 20px;
+  height: 200px;
+  width: 200px;
+}
+
+.bball {
+  font-size: 20px;
+}
+
+.boom {
+  font-style: italic;
+  font-size: 40px;
+}
+
+.hr {
+  margin-bottom: 20px;
+  border-color: #7FFFD4;
+  border-width: 10px;
+  border-style: dotted none none;
+  width: 100%;
+}
+
+.hr1 {
+  margin-bottom: 20px;
+  border-color: #7FFFD4;
+  border-width: 10px;
+  border-style: dotted none none;
+  width: 100%;
+}
+.btn{
+  border-radius: 10px;
+  padding: 10px 20px 10px 20px;
+  background-color: #7FFFD4;
+  color: grey;
+  text-decoration: none;
+}
+.bottom-container{
+  background-color: #7FFFD4;
+  position: absolute;
+  width: 100%;
+  margin-top:20px;
+}
+.footer-link{
+  margin-top: 20px;
+  text-decoration: none;
+}
+
+.contact-me{
+  margin-bottom: 25px;
+}
+.jogn{
+  position: relative;
+}
